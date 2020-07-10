@@ -1,2 +1,3 @@
 # hello-world
-Let's go!
+
+im new here and hope to have fun at github.
